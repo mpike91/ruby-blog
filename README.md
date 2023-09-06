@@ -1,24 +1,20 @@
-# README
+# Blog App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the "Getting Started with Rails" app on the Ruby on Rails docs.
 
-Things you may want to cover:
+<a href="https://guides.rubyonrails.org/getting_started.html">https://guides.rubyonrails.org/getting_started.html</a>
 
-* Ruby version
+Very simple blogging app in which users can create new articles, edit, and delete articles. Includes the most basic of authentication.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<p align-items="center">
+  <img src="readme1.png">
+</p>
+<p align-items="center">
+  <img src="readme2.png">
+</p>
+<p align-items="center">
+  <img src="readme3.png">
+</p>
+<p align-items="center">
+  <img src="readme4.png">
+</p>
